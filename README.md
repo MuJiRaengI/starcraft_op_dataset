@@ -5,6 +5,6 @@
 
 사용 방법
 ```
-    dataset = AutoGenerateSegmentationDataset(path=r"dataset")
-    dataset.generate()
+dataset = AutoGenerateSegmentationDataset(path=r"dataset")
+dataset.generate()
 ```
